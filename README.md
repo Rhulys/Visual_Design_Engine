@@ -23,7 +23,7 @@ O objetivo deste projeto foi resolver o problema de manipulação de estruturas 
 - **Escalabilidade:** Estrutura de tipos extensível, permitindo adicionar novos componentes (Input, Imagens, etc) apenas atualizando o NodeType
 
 ## 🚀 Como rodar o projeto
-1 - Instale as dependências
-2 - `npm install`
-3 - Inicie o servidor de desenvolvimento
+1 - Instale as dependências <br/>
+2 - `npm install` <br/>
+3 - Inicie o servidor de desenvolvimento <br/>
 4 - `npm run dev`
